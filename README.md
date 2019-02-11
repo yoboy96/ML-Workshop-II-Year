@@ -6,3 +6,4 @@ PCE17CS018    Alfaij Mansuri  https://github.com/alfaijmansuri/MyMLworkshop
 
 PCE17CS160    Tanuj Sharma    https://github.com/tanujsharma1412/Ml-Workshop
 
+PCE17CS026    Ankush Pokharna    https://github.com/ankushp11/mymlworkshop
