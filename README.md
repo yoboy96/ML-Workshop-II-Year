@@ -1,5 +1,5 @@
 # ML-Workshop-II-Year
-
+pce17cs144    Satya Singh     https://github.com/satya8093/my-ml-workshop
 PCE17CS160    Tanuj Sharma    https://github.com/tanujsharma1412/Ml-Workshop  
 
 PCE17CS070    Himanshu Garg   https://github.com/hmanshgrg/mymlworkshop
