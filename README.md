@@ -24,6 +24,8 @@ PCE17CS030    Arya Sinha       https://github.com/arya-07/My-ML-Workshop
 
 PCE17CS001     Aakansha kowerjani  https://github.com/Aakanshakowerjani/mlaiworkshop
 
+PCE17CS002     Aashish Mridul     https://github.com/amridul2317/MLAI-Workshop
+
 PCE17CS082    Karan Parihar   https://github.com/karanparihar?tab=repositories
 
 PCE17CS013    Aditya Sharma   https://github.com/Adiishrma/My-ML-Workshop
@@ -33,4 +35,5 @@ PCE17CS090    KUMAR KAUTUK      https://github.com/kautuk98/ml-workshop-tutes
 PCE17CS104     MUDIT CHOPRA       https://github.com/muditchopra/my-ml-workshop
 
 PCE17CS060    Harsh Bhardwaj        https://github.com/harshbhardwaj5/ml-workshop
+
 
